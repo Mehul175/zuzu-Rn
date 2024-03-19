@@ -1,6 +1,6 @@
 import images from '../assets/images';
 import strings from '../i18n/strings';
-import {StackNav} from '../navigation/NavigationKeys';
+import { StackNav } from '../navigation/NavigationKeys';
 
 const renderChips = [
   'Action',
@@ -211,7 +211,7 @@ const inboxData = [
     data: [
       {
         id: 1,
-        name: 'Charolette Hanlin',
+        name: 'Charolette Hawnlin',
         desc: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
         profileImage: 'https://i.ibb.co/N2hx6tN/user2.png',
       },
@@ -391,7 +391,7 @@ const contactUsData = [
 const languageData = [
   {
     title: 'Suggested',
-    data: [{lnName: 'English(US)'}, {lnName: 'English(UK)'}],
+    data: [{ lnName: 'English(US)' }, { lnName: 'English(UK)' }],
   },
   {
     title: 'Language',
